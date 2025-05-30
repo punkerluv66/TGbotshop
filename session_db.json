@@ -1,0 +1,22 @@
+{
+  "sessions": [
+    {
+      "id": "336757322:336757322",
+      "data": {
+        "__scenes": {}
+      }
+    },
+    {
+      "id": "649264885:649264885",
+      "data": {
+        "__scenes": {
+          "current": "checkout",
+          "state": {}
+        },
+        "checkoutStep": "phone",
+        "name": "Жопа",
+        "surname": "Хуй"
+      }
+    }
+  ]
+}
