@@ -24,3 +24,4 @@ coverage/
 checkout.js
 add-products.js
 shop.db
+session.json
