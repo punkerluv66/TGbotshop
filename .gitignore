@@ -21,7 +21,7 @@ coverage/
 # Настройки редактора
 .vscode/
 .idea/
-checkout.js
+checkoutold.js
 add-products.js
 shop.db
 session_db.json

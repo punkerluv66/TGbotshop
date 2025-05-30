@@ -1,4 +1,5 @@
 require('dotenv').config();
+
 const { Telegraf, Markup, Scenes } = require('telegraf');
 const LocalSession = require('telegraf-session-local');
 const sqlite3 = require('sqlite3').verbose();
@@ -231,3 +232,4 @@ bot.catch((err, ctx) => {
 });
 
 bot.launch();
+module.exports = { db, cart };
