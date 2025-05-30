@@ -25,3 +25,4 @@ checkout.js
 add-products.js
 shop.db
 session_db.json
+package-lock.json
